@@ -1,0 +1,10 @@
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day2/Deck_Of_Cards/bin/Debug/netcoreapp2.0/Deck_Of_Cards.deps.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day2/Deck_Of_Cards/bin/Debug/netcoreapp2.0/Deck_Of_Cards.runtimeconfig.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day2/Deck_Of_Cards/bin/Debug/netcoreapp2.0/Deck_Of_Cards.runtimeconfig.dev.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day2/Deck_Of_Cards/bin/Debug/netcoreapp2.0/Deck_Of_Cards.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day2/Deck_Of_Cards/bin/Debug/netcoreapp2.0/Deck_Of_Cards.pdb
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day2/Deck_Of_Cards/obj/Debug/netcoreapp2.0/Deck_Of_Cards.csproj.CoreCompileInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day2/Deck_Of_Cards/obj/Debug/netcoreapp2.0/Deck_Of_Cards.AssemblyInfoInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day2/Deck_Of_Cards/obj/Debug/netcoreapp2.0/Deck_Of_Cards.AssemblyInfo.cs
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day2/Deck_Of_Cards/obj/Debug/netcoreapp2.0/Deck_Of_Cards.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day2/Deck_Of_Cards/obj/Debug/netcoreapp2.0/Deck_Of_Cards.pdb
